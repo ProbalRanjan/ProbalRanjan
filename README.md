@@ -69,7 +69,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">
+            <td colspan="2" align="center">
                 <img alt=""
                     src="https://activity-graph.herokuapp.com/graph?username=ProbalRanjan&bg_color=0D1117&color=0295DA&line=2DDD97&point=FFFFFF&hide_border=true" />
             </td>
