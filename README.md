@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
@@ -35,10 +36,9 @@
 <a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="#" rel="noreferrer"> <img src="Assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="#" rel="noreferrer"> <img src="Assets/illustrator.png" alt="illustrator" width="40" height="40"/> </a>  
-<a href="#" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<a href="#" rel="noreferrer"> <img src="Assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
+
 
 ## 📊 Github Statistics
 <p align="center">
@@ -59,4 +59,12 @@
    </table>
 </p>
 
+
 ## 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/probalranjanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalranjanpaul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18390067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390067" height="30" width="40" /></a>
+<a href="https://fb.com/probalranjanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="probalranjanpaul" height="30" width="40" /></a>
+<a href="https://instagram.com/improbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="improbal" height="30" width="40" /></a>
+<a href="https://twitter.com/probal_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="probal_ranjan" height="30" width="40" /></a>
+</p>
