@@ -1,21 +1,18 @@
-<h1 align="center"><a href="#"><img align="center" width="400" margin-left="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></a></h1>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Probal</h1>
+<h1 align="center"><a href="#"><img align="center" width="400" margin-left="100px" src="Assets/programmer.gif"/></a></h1>
+<h1 align="center">Hi <img src="Assets/gretting.gif" width="10px">, I'm Probal</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
+
+<h2>🙋‍♂️ About Me</h2>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
 - 🌱 I’m currently learning **Competitive Programming**
-
 - 🤔 I’m looking for help with ...
-
 - 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QHnx7hOaR3QvYwQws_u15Lpcu5CpQJoX/view?usp=sharing)
+- 📫 How to reach me **probalranjanpaul@gmail.com**
+- ⚡ Fun fact **Love to play Video Games**
 
 <p align="center">
    <table>
