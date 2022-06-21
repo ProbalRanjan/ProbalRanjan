@@ -9,7 +9,7 @@
 ---
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
 
@@ -26,7 +26,7 @@
 - ⚡ Fun fact **Love to try out New Tech**
 
 
-## 🚀 Languages and Tools
+### 🚀 Languages and Tools
 
 <p align="left">
     <a href="#"> <img src="Assets/visual-studio-code.png" alt="vsCode" width="40" height="40"/> </a>
@@ -48,7 +48,7 @@
 </p>
 
 
-## 📊 Github Statistics
+### 📊 Github Statistics
 
 <p align="center">
    <table>
@@ -78,7 +78,7 @@
 </p>
 
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 
 <p align="left">
     <a href="https://linkedin.com/in/probalranjanpaul" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalranjanpaul" height="30" width="40" /> </a>
