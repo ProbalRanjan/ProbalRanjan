@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://github.com/ProbalRanjan"><img align="center" width="350" margin-left="100px" src="Assets/programmer.gif"/></a></h1>
-<h1 align="center">Hi <img src="Assets/gretting.gif" width="5px">, I'm Probal Ranjan</h1>
+<h1 align="center"><img align="center" width="350" margin-left="100px" src="Assets/programmer.gif"/></h1>
+<h1 align="center">Hi 👋, I'm Probal</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer</h3>
 
 ## 🙋‍♂️ About Me
@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ProbalRanjan)**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1QHnx7hOaR3QvYwQws_u15Lpcu5CpQJoX/view?usp=sharing)**
 - 📫 How to reach me **probalranjanpaul@gmail.com**
-- ⚡ Fun fact **Love to Explore**
+- ⚡ Fun fact **Love to try out New Tech**
 
 <p align="center">
    <table>
