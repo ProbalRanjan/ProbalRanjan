@@ -2,12 +2,13 @@
 <img width="350" src="Assets/programmer.gif"/>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Probal Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Probal</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer</h3>
 
 ---
 
-### 🙋‍♂️ About Me
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
 
@@ -23,9 +24,8 @@
 
 - ⚡ Fun fact **Love to try out New Tech**
 
----
 
-### 🚀 Languages and Tools
+## 🚀 Languages and Tools
 
 <p align="left">
     <a href="#"> <img src="Assets/visual-studio-code.png" alt="vsCode" width="40" height="40"/> </a>
@@ -46,9 +46,8 @@
     <a href="#"> <img src="Assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
----
 
-### 📊 Github Statistics
+## 📊 Github Statistics
 
 <p align="center">
    <table>
@@ -71,15 +70,14 @@
         <tr>
             <td colspan="2" align="center">
                 <img alt=""
-                    src="https://activity-graph.herokuapp.com/graph?username=ProbalRanjan&bg_color=0D1117&color=0295DA&line=2DDD97&point=FFFFFF&hide_border=true" />
+                    src="https://activity-graph.herokuapp.com/graph?username=ProbalRanjan&bg_color=0D1117&color=0295DA&line=0295DA&point=FFFFFF&hide_border=true" />
             </td>
         </tr>
     </table>
 </p>
 
----
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
 <p align="left">
     <a href="https://linkedin.com/in/probalranjanpaul" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalranjanpaul" height="30" width="40" /> </a>
