@@ -2,24 +2,34 @@
 <img align="center" width="350" src="Assets/programmer.gif"/>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Probal</h1>
+<h1 align="center">Hi 👋, I'm Probal Ranjan</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer</h3>
 
----
+<h3 align="center"> Profile Visitor Count<br>
+  <img width="30%" src="https://profile-counter.glitch.me/ProbalRanjan/count.svg" />
+</h3>
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ProbalRanjan/count.svg" />
+<h2 align="center">Github Visited Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
 </p>
+
+---
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
+
 - 🌱 I’m currently learning **Competitive Programming**
+
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ProbalRanjan)**
+
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1QHnx7hOaR3QvYwQws_u15Lpcu5CpQJoX/view?usp=sharing)**
+
 - 🌐 Visit my website **[Portfolio](https://probalranjanpaul.netlify.app)**
+
 - 📫 How to reach me **probalranjanpaul@gmail.com**
+
 - ⚡ Fun fact **Love to try out New Tech**
 
 <p align="center">
