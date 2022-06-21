@@ -1,18 +1,15 @@
-<h1 align="center"><a href="#"><img align="center" width="400" margin-left="100px" src="Assets/programmer.gif"/></a></h1>
-<h1 align="center">Hi <img src="Assets/gretting.gif" width="10px">, I'm Probal</h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
-
-<h2>🙋‍♂️ About Me</h2>
+<h1 align="center"><a href="https://github.com/ProbalRanjan"><img align="center" width="350" margin-left="100px" src="Assets/programmer.gif"/></a></h1>
+<h1 align="center">Hi <img src="Assets/gretting.gif" width="5px">, I'm Probal Ranjan</h1>
+<h3 align="center">I'm a passionate Frontend Web Developer</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Web Development**
 - 🌱 I’m currently learning **Competitive Programming**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QHnx7hOaR3QvYwQws_u15Lpcu5CpQJoX/view?usp=sharing)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ProbalRanjan)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1QHnx7hOaR3QvYwQws_u15Lpcu5CpQJoX/view?usp=sharing)**
 - 📫 How to reach me **probalranjanpaul@gmail.com**
-- ⚡ Fun fact **Love to play Video Games**
+- ⚡ Fun fact **Love to Explore**
 
 <p align="center">
    <table>
