@@ -52,25 +52,29 @@
 
 <p align="center">
    <table>
-       <tr>
-       <td>
-       <img alt="ProbalRanjan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ProbalRanjan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-       </td>
-       <td>
-       <img alt="ProbalRanjan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProbalRanjan&langs_count=14&theme=blue-green&layout=compact&hide=html">
-       </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center">
-        <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ProbalRanjan&theme=blue-green&hide_border=true">
-        </td>
-     </tr>
-     <tr>
-        <td align="center">
-        <img>
-        </td>
-     </tr>
-   </table>
+        <tr>
+            <td colspan="2" align="center">
+                <img alt=""
+                    src="https://github-readme-streak-stats.herokuapp.com?user=ProbalRanjan&theme=algolia&background=0D1117&hide_border=true">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt=""
+                    src="https://github-readme-stats.vercel.app/api?username=ProbalRanjan&show_icons=true&count_private=true&theme=algolia&bg_color=0D1117&hide_border=true" />
+            </td>
+            <td>
+                <img alt=""
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProbalRanjan&langs_count=14&theme=algolia&layout=compact&hide=html&bg_color=0D1117">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img alt=""
+                    src="https://activity-graph.herokuapp.com/graph?username=ProbalRanjan&bg_color=0D1117&color=0295DA&line=2DDD97&point=FFFFFF&hide_border=true" />
+            </td>
+        </tr>
+    </table>
 </p>
 
 
