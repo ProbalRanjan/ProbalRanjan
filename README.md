@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Probal Ranjan</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer</h3>
 
-
 ---
-
 
 ### 🙋‍♂️ About Me
 
@@ -25,6 +23,7 @@
 
 - ⚡ Fun fact **Love to try out New Tech**
 
+---
 
 ### 🚀 Languages and Tools
 
@@ -47,6 +46,7 @@
     <a href="#"> <img src="Assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
+---
 
 ### 📊 Github Statistics
 
@@ -77,6 +77,7 @@
     </table>
 </p>
 
+---
 
 ### 🤝 Connect with me
 
