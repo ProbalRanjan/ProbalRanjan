@@ -77,7 +77,7 @@
 </p>
 
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
 
 <p align="left">
     <a href="https://linkedin.com/in/probalranjanpaul" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalranjanpaul" height="30" width="40" /> </a>
@@ -86,5 +86,3 @@
     <a href="https://instagram.com/improbal" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="improbal" height="30" width="40" /> </a>
     <a href="https://twitter.com/probal_ranjan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="probal_ranjan" height="30" width="40" /> </a>
 </p>
-
-![snake gif](https://github.com/ProbalRanjan/ProbalRanjan/blob/output/github-contribution-grid-snake.svg)
